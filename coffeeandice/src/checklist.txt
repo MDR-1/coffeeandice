@@ -1,0 +1,5 @@
+Header.php - DONE
+Homepage.php - DONE
+Functions.php - DONE
+Footer.php - DONE
+404 - DONE
